@@ -62,13 +62,13 @@ title = "Hugo Serif Theme"
     weight = 1
 
   [[menu.main]]
-    name = "Team"
-    url = "/team/"
+    name = "Client Experiences"
+    url = "/testimonials/"
     weight = 2
 
   [[menu.main]]
-    name = "About"
-    url = "/about/"
+    name = "About Me"
+    url = "/aboutme/"
     weight = 3
 
   [[menu.main]]
