@@ -36,8 +36,8 @@ title = "Hugo Serif Theme"
   [params.colors]
     primary = "#98FBCB"
     black = "#2f2f41"
-    white = "#d2b5a3"
-    white_offset = "#d2b5a3"
+    white = "#ffffff"
+    white_offset = "#ffffff"
     grey = "#5C5A5A"
 
   [params.seo]
@@ -62,12 +62,12 @@ title = "Hugo Serif Theme"
     weight = 1
 
   [[menu.main]]
-    name = "Team"
+    name = "Client Experiences"
     url = "/team/"
     weight = 2
 
   [[menu.main]]
-    name = "About"
+    name = "About Me"
     url = "/about/"
     weight = 3
 
