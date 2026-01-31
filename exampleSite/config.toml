@@ -63,7 +63,7 @@ title = "Alex Miller Energy Coaching"
 
   [[menu.main]]
     name = "Client Experiences"
-    url = "/team/"
+    url = "/client-experiences/"
     weight = 2
 
   [[menu.main]]
