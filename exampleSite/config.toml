@@ -2,7 +2,7 @@ baseURL = "/"
 themesDir = "themes"
 theme = "hugo-serif-theme"
 languageCode = "en-us"
-title = "Alex Miller Energy Coaching"
+title = "Alexandra Miller Energy Coaching"
 
 [module]
   [module.hugoVersion]
